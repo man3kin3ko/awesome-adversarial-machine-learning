@@ -9,7 +9,6 @@ Also see [awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-
   - [Threat Modeling](#threat-modeling)
   - [Controls Guidelines](#controls-guidelines)
   - [Case Studies](#case-studies)
-  - [Attacks based on method](#attacks-based-on-method)
   - [Attacks based on domain](#attacks-based-on-domain)
   - [Attacks based on strategy](#attacks-based-on-strategy)
   - [CTF and Hackathons](#ctf-and-hackathons)
@@ -31,24 +30,6 @@ Also see [awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-
 ## Case Studies
 * [MITRE reports on in-the-wild](https://github.com/mitre/advmlthreatmatrix/blob/master/pages/case-studies-page.md#case-studies-page)
 * [Avito fights content theft using adversarial attacks](https://habr.com/ru/company/avito/blog/452142/)
-
-## Attacks based on method
-* [JSMA](https://ieeexplore.ieee.org/document/7467366)
-* [One Pixel Attack](https://ieeexplore.ieee.org/abstract/document/8601309/)
-* [DeepFool](https://arxiv.org/abs/1511.04599)
-* [C&W](https://ieeexplore.ieee.org/abstract/document/7958570)
-* [ATNs](https://arxiv.org/abs/1703.09387)
-* [UPSET and ANGRI](https://arxiv.org/abs/1707.01159)
-* Gradient-based:
-  * [FGSM](https://arxiv.org/abs/1412.6572)
-  * [Box-constrained L-BFGS](https://arxiv.org/pdf/1312.6199.pdf)
-  * [I-FGSM](https://arxiv.org/abs/1607.02533)
-  * [MI-FGSM](http://openaccess.thecvf.com/content_cvpr_2018/html/Dong_Boosting_Adversarial_Attacks_CVPR_2018_paper.html)
-  * [DI^2-FGSM and M-DI^2FGSM](https://arxiv.org/abs/1803.06978)
-
-Relationships between attacks:
-
-<img src="./gradientrelationship.png" width="300">
 
 ## Attacks based on domain
 * Computer Vision
@@ -96,4 +77,3 @@ Relationships between attacks:
 * [**adversarial-robustness-toolbox**](https://github.com/IBM/adversarial-robustness-toolbox)
 * [**foolbox**](https://github.com/bethgelab/foolbox)
 * [**cleverhans**](https://github.com/tensorflow/cleverhans)
-* [**advertorch**](https://github.com/BorealisAI/advertorch)
