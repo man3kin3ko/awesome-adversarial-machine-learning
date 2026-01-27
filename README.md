@@ -72,6 +72,7 @@ Also see [awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-
 * [Positive Hack Days 2022: AI CTF](https://ai.ctf.su/)
 * [UTCTF 2019 (FaceSafe, Bot Protection IV tasks)](https://github.com/utisss/UTCTF-19)
 * [vishwaCTF21 (Good Driver Bad Driver task)](https://vishwactf.com/)
+* [AI/LLM Exploitation Challenges (AI CTF Labs)](https://academy.8ksec.io/course/ai-exploitation-challenges)
 
 ## Frameworks
 * [**adversarial-robustness-toolbox**](https://github.com/IBM/adversarial-robustness-toolbox)
