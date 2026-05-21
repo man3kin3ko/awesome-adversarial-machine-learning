@@ -30,6 +30,8 @@ Also see [awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-
 ## Case Studies
 * [MITRE reports on in-the-wild](https://github.com/mitre/advmlthreatmatrix/blob/master/pages/case-studies-page.md#case-studies-page)
 * [Avito fights content theft using adversarial attacks](https://habr.com/ru/company/avito/blog/452142/)
+* [Project Nightshade by researchers from University of Chicago](https://nightshade.cs.uchicago.edu/whatis.html) which helps digital artists to protect their works from being used as training data. The key attack method is poisoning.
+* [Project Glaze by researchers from University of Chicago](https://glaze.cs.uchicago.edu/faq.html), similar to Nightshade, but works by mimicry attacks
 
 ## Attacks based on domain
 * Computer Vision
